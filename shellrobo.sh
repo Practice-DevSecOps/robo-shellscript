@@ -1,6 +1,6 @@
 #!/bin/bash
 
-AMI_ID="ami-09c813fb71547fc4f"
+AMI_ID="ami-0220d79f3f480ecf5" # replace with your AMI ID
 SG_ID="sg-062bf49da64d91a40" # replace with your SG ID
 ZONE_ID="Z0467851DLTIPRFDCIWG" # replace with your ID
 DOMAIN_NAME="gadekari.store" # replace with your domain name
